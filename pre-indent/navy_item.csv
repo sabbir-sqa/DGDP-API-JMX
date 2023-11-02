@@ -1,0 +1,12 @@
+﻿name,nameBN,itemCategoryId,itemGroup,itemUnitId,itemType,officeId,officeCategory,countryId,economicCode,itemBrandId,standardized,itemTOnEType,itemCode
+string,string,3fa85f64-5717-4562-b3fc-2c963f66afa6,string,3fa85f64-5717-4562-b3fc-2c963f66afa6,CONTROLLED,3fa85f64-5717-4562-b3fc-2c963f66afa6,BANGLADESH_ARMY,3fa85f64-5717-4562-b3fc-2c963f66afa6,string,3fa85f64-5717-4562-b3fc-2c963f66afa6,TRUE,INCLUDED,string
+Breathing Tube Assembly,ব্রেদিং টিউব এসেম্বলি,,,,CONTROLLED,,,,,,FALSE,,
+Life Preserver,লাইফ প্রিজারভার,,,,CONTROLLED,,,,,,FALSE,,
+HB ELECTROPHORESIS MACHINE,এইচ বি ইলেক্ট্রোফোরেসিস মেশিন,,,,CONTROLLED,,,,,,FALSE,,
+Self Contained Under Water Breathing ,সেলফ কন্টেইন্ড আন্ডার ওয়াটার ব্রেদিং,,,,CONTROLLED,,,,,,FALSE,,
+100mm Ship Borne Gun,১০০ মিমি শিপ বোর্ন গান,,,,CONTROLLED,,,,,,TRUE,,
+Navigation Radar System,নেভিগেশন রাডার সিস্টেম,,,,CONTROLLED,,,,,,TRUE,,
+Spare Parts For Diesel Generator,ডিজেল জেনারেটরের খুচরা যন্ত্রাংশ,,,,CONTROLLED,,,,,,FALSE,,
+Salt (Iodized)-01,লবণ (আয়োডাইজড)-০১,,,,UNCONTROLLED,,,,,,FALSE,,
+Fuel,জ্বালানী,,,,CONTROLLED,,,,,,TRUE,,
+Underwater Paint and Thinner,আন্ডারওয়াটার পেইন্ট এবং থিনার,,,,CONTROLLED,,,,,,FALSE,,

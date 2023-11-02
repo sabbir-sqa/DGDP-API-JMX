@@ -1,0 +1,11 @@
+﻿name,nameBN,itemCategoryId,itemGroup,itemUnitId,itemType,officeId,officeCategory,countryId,economicCode,itemBrandId,standardized,itemTOnEType,itemCode
+string,string,3fa85f64-5717-4562-b3fc-2c963f66afa6,,3fa85f64-5717-4562-b3fc-2c963f66afa6,CONTROLLED,3fa85f64-5717-4562-b3fc-2c963f66afa6,BANGLADESH_ARMY,3fa85f64-5717-4562-b3fc-2c963f66afa6,BA-0123,3fa85f64-5717-4562-b3fc-2c963f66afa6,TRUE,INCLUDED,string
+Salt,লবন,,,6f5fa5fe-b853-4fd8-bb46-db64a909ceb2,UNCONTROLLED,,BANGLADESH_ARMY,,,,FALSE,INCLUDED,string
+Edible Oil,ভোজ্য তেল,,,61a21919-7349-4239-be4e-b1063d6bd306,UNCONTROLLED,,BANGLADESH_ARMY,,,,FALSE,INCLUDED,string
+Pneumatic Roller ,নিউমেটিক রোলার ,,,08d499ce-586b-485d-9442-0ac24f08ac78,CONTROLLED,,BANGLADESH_ARMY,,,,FALSE,EXCLUDED,string
+FIELD TELEPHONE SET,ফিল্ড টেলিফোন সেট,,,08d499ce-586b-485d-9442-0ac24f08ac78,CONTROLLED,,BANGLADESH_ARMY,,,,FALSE,EXCLUDED,string
+Net Mosquito Round Mesh Nylon Khaki (200cm x 92cm x 132cm),নেট মসকুইটো রাউন্ড মেশ নাইলন খাকী (২০০ সেমি x ৯২ সেমি x ১৩২ সেমি),,,8fffde54-a7d1-48ce-9c1e-1bcda395e0db,UNCONTROLLED,,BANGLADESH_ARMY,,,,TRUE,EXCLUDED,string
+Lorry 3 Ton with Standard Tools and Accessories (Without Winch),স্ট্যান্ডার্ড সরঞ্জাম এবং আনুষাঙ্গিক সহ লরি 3 টন (উইঞ্চ ছাড়া),,,08d499ce-586b-485d-9442-0ac24f08ac78,CONTROLLED,,BANGLADESH_ARMY,,,,TRUE,EXCLUDED,string
+Coaster,কোস্টার,,,8fffde54-a7d1-48ce-9c1e-1bcda395e0db,CONTROLLED,,BANGLADESH_ARMY,,,,TRUE,INCLUDED,string
+"	Cartridge Quick Firing 155 mm Smoke Base Ejection (BE) for 155 mm SP Gun Howitzer Type NORA B-52K1",কার্টিজ কুইক ফায়ারিং 155 মিমি স্মোক বেস ইজেকশন (বিই) 155 মিমি এসপি গান হাউইটজার টাইপ NORA B-52K1 এর জন্য,,Guns and Ammo,e3bf4429-3cec-4b46-bb6f-f56cf88192c3,CONTROLLED,,BANGLADESH_ARMY,,,,TRUE,INCLUDED,string
+Soyabin Oil,সয়াবিন তেল,,,61a21919-7349-4239-be4e-b1063d6bd306,UNCONTROLLED,,BANGLADESH_ARMY,,,,TRUE,EXCLUDED,string
