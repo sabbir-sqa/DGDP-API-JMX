@@ -1,3 +1,3 @@
-captchaId,captcha,fullName,username,password,email,phone,identityType,identityNumber,dateOfBirth,secretQuestionId,secretQuestionAnswer
-id1,answer1,John Doe,jdoe,password123,jdoe@example.com,1234567890,NATIONAL_ID,ID123456,09-06-24,c4478886-702a-4811-aa44-de78657fd69b,answer1
-id2,answer2,Jane Doe,janed,password123,janed@example.com,1234567891,NATIONAL_ID,ID123457,09-06-24,questionId2,answer2
+fullName,username,password,email,phone,identityType,identityNumber,dateOfBirth,secretQuestionId,secretQuestionAnswer
+John Doe,jdoe,Password#123,jdoe@example.com,1234567890,NATIONAL_ID,1234567890,09-06-92,c4478886-702a-4811-aa44-de78657fd69b,answer1
+Jane Doe,janed,Password#123,janed@example.com,1234567891,NATIONAL_ID,1234567890,09-06-92,c4478886-702a-4811-aa44-de78657fd69b,answer2
