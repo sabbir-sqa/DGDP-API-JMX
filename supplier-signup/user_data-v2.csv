@@ -1,0 +1,3 @@
+fullName,username,password,email,phone,identityType,identityNumber,dateOfBirth,secretQuestionId,secretQuestionAnswer
+John Doe,testuser001,Password#123,jdoe@example.com,01715112231,NATIONAL_ID,1234567890,1990-06-13,c4478886-702a-4811-aa44-de78657fd69b,answer1
+Jane Doe,testuser002,Password#123,janed@example.com,01715112232,PASSPORT_NO,1234567890,2009-06-13,c4478886-702a-4811-aa44-de78657fd69b,answer2
