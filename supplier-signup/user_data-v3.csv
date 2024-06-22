@@ -1,0 +1,2 @@
+fullName,username,password,email,phone,identityType,identityNumber,dateOfBirth,secretQuestionId,secretQuestionAnswer
+Jane Doe,janed5,Password#124,janed@example.com,01414112215,NATIONAL_ID,1234567891,1992-05-30,c4478886-702a-4811-aa44-de78657fd69b,answer3
