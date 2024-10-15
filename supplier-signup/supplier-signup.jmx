@@ -23,8 +23,8 @@
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config">
           <stringProp name="delimiter">,</stringProp>
           <stringProp name="fileEncoding"></stringProp>
-          <stringProp name="filename">D:/AUTOMATION/DGDP-BACKEND/supplier-signup/sign_up-test.csv</stringProp>
-          <boolProp name="ignoreFirstLine">false</boolProp>
+          <stringProp name="filename">D:/AUTOMATION/DGDP-BACKEND/supplier-signup/signup-data.csv</stringProp>
+          <boolProp name="ignoreFirstLine">true</boolProp>
           <boolProp name="quotedData">false</boolProp>
           <boolProp name="recycle">true</boolProp>
           <stringProp name="shareMode">shareMode.all</stringProp>

@@ -1,4 +1,0 @@
-captchaId,captcha,fullName,username,password,email,phone,identityType,identityNumber,dateOfBirth,secretQuestionId,secretQuestionAnswer
-id1,answer1,John Doe,jdoe,password123,jdoe@example.com,1234567890,NATIONAL_ID,ID123456,2024-06-09,questionId1,answer1
-id2,answer2,Jane Doe,janed,password123,janed@example.com,1234567891,NATIONAL_ID,ID123457,2024-06-09,questionId2,answer2
-...

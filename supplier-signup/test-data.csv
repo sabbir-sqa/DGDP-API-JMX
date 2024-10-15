@@ -1,0 +1,22 @@
+fullName,username,password,email,phone,identityType,identityNumber,dateOfBirth,secretQuestionId,secretQuestionAnswer
+John Doe,john.doe,password123,john.doe@example.com,8.80172E+12,NATIONAL_ID,1.23457E+12,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,My answer
+John Doe,' OR 1=1 -- ,password123,john.doe@example.com,8.80172E+12,NATIONAL_ID,1.23457E+12,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,My answer
+<script>alert(1)</script>,john.doe,password123,john.doe@example.com,8.80172E+12,NATIONAL_ID,1.23457E+12,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,My answer
+John Doe,john.doe,123,john.doe@example.com,8.80172E+12,NATIONAL_ID,1.23457E+12,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,My answer
+John Doe,john.doe,password123,john.doe@example.com,8.80172E+12,NATIONAL_ID,1.23457E+12,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,My answer
+John Doe,john.doe,password123,' OR 1=1 -- ,8.80172E+12,NATIONAL_ID,1.23457E+12,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,My answer
+John Doe,john.doe,password123,john.doe@example.com,8.80172E+12,NATIONAL_ID,1.23457E+12,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,My answer
+John Doe,john.doe,password123,john.doe@example.com,8.80172E+12,NATIONAL_ID,12345678,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,My answer
+John Doe,john.doe,password123,john.doe@example.com,8.80172E+12,NATIONAL_ID,1.23457E+12,01-01-05,3fa85f64-5717-4562-b3fc-2c963f66afa6,My answer
+,,,,,,,,,
+Jane Smith,jane.smith,password456,jane.smith@example.com,1717112233,NATIONAL_ID,9.87654E+12,10-10-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,Another answer
+Young User,young.user,password123,young.user@example.com,8.80172E+12,NATIONAL_ID,9.87654E+12,01-01-00,3fa85f64-5717-4562-b3fc-2c963f66afa6,Answer
+Safe User,safeuser,password123,safe.user@example.com,8.80172E+12,NATIONAL_ID,1.23457E+12,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,<script>alert('XSS')</script>
+Test User,nospecialchar,abcdefg123,nospecial.user@example.com,8.80172E+12,NATIONAL_ID,1.12233E+12,19-03-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,Security
+,,,,,,,,,
+Malicious User,' OR 1=1 -- ,password123,malicious.user@example.com,8.80172E+12,NATIONAL_ID,1.23457E+12,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,My answer
+Malicious User,malicioususer,password123,' OR 1=1 -- ,8.80172E+12,NATIONAL_ID,9.87654E+12,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,Answer
+<script>alert(1)</script>,xssuser,password123,xss.user@example.com,8.80172E+12,NATIONAL_ID,1.23457E+12,20-06-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,XSS
+Test User,weakpass,123,weakpass.user@example.com,8.80172E+12,NATIONAL_ID,1.12233E+12,19-03-92,3fa85f64-5717-4562-b3fc-2c963f66afa6,Security
+,,,,,,,,,
+Valid User,validuser,password123,valid.user@example.com,8.80172E+12,NATIONAL_ID,1.23457E+12,15-05-95,3fa85f64-5717-4562-b3fc-2c963f66afa6,My answer
